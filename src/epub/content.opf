@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/wallace-thurman/the-blacker-the-berry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-11-05T21:13:04Z</dc:date>
+		<meta property="dcterms:modified">2025-11-05T21:13:04Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,14 +45,14 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A dark-skinned young woman moves to Harlem and becomes frustrated by colorism in the African-American community.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The debut novel of &lt;a href="https://standardebooks.org/ebooks/wallace-thurman"&gt;Wallace Thurman&lt;/a&gt;, &lt;i&gt;The Blacker the Berry&lt;/i&gt; follows the life of Emma Lou, a dark-skinned young woman from Boise, as she graduates high school and enters adult life as a college student. After being the target of colorist prejudice from her fellow African-American students at the University of Southern California, Emma Lou decides to drop out and move to Harlem—where she is swept into a torrid love affair that only deepens her sense of color-consciousness.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Blacker the Berry&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/wallace-thurman"&gt;Wallace Thurman’s&lt;/a&gt; debut novel, follows the life of Emma Lou, a dark-skinned young woman from Boise, as she graduates high school and enters adult life as a college student. After being the target of colorist prejudice from her fellow African-American students at the University of Southern California, Emma Lou decides to drop out and move to Harlem—where she’s swept into a torrid love affair that only deepens her sense of color-consciousness.&lt;/p&gt;
 			&lt;p&gt;Written and set during the height of the Harlem Renaissance, &lt;i&gt;The Blacker the Berry&lt;/i&gt; was one of the first African-American novels to address the themes of colorism and homosexuality. It remains one of the canonical novels of the Harlem Renaissance.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_Blacker_the_Berry</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001187330</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">55251</meta>
+		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blacker_the_Berry_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wallace-thurman_the-blacker-the-berry</meta>
 		<dc:creator id="author">Wallace Thurman</dc:creator>
@@ -79,6 +79,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
