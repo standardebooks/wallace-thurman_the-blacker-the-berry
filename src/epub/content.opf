@@ -51,7 +51,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_Blacker_the_Berry</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001187330</dc:source>
-		<meta property="se:word-count">55251</meta>
+		<meta property="se:word-count">54357</meta>
 		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blacker_the_Berry_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wallace-thurman_the-blacker-the-berry</meta>
