@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="part-2.xhtml">
 		<ignore code="y-022">
+			<line>99</line>
 			<reason>Consecutive quotations is intentional prose style.</reason>
 		</ignore>
 	</file>
