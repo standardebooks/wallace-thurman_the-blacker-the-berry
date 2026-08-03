@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/wallace-thurman/the-blacker-the-berry</dc:identifier>
 		<dc:date>2025-11-05T21:13:04Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008105840</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A dark-skinned young woman moves to Harlem and becomes frustrated by colorism in the African-American community.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A dark-skinned young woman moves to Harlem and becomes frustrated by colorism in the African-American community.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Blacker the Berry&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/wallace-thurman"&gt;Wallace Thurman’s&lt;/a&gt; debut novel, follows the life of Emma Lou, a dark-skinned young woman from Boise, as she graduates high school and enters adult life as a college student. After being the target of colorist prejudice from her fellow African-American students at the University of Southern California, Emma Lou decides to drop out and move to Harlem—where she’s swept into a torrid love affair that only deepens her sense of color-consciousness.&lt;/p&gt;
 			&lt;p&gt;Written and set during the height of the Harlem Renaissance, &lt;i&gt;The Blacker the Berry&lt;/i&gt; was one of the first African-American novels to address the themes of colorism and homosexuality. It remains one of the canonical novels of the Harlem Renaissance.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_Blacker_the_Berry</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001187330</dc:source>
