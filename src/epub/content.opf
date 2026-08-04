@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008105840</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A dark-skinned young woman moves to Harlem and becomes frustrated by colorism in the African-American community.</dc:abstract>
+		<meta property="schema:abstract">A dark-skinned young woman moves to Harlem and becomes frustrated by colorism in the African-American community.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Blacker the Berry&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/wallace-thurman"&gt;Wallace Thurman’s&lt;/a&gt; debut novel, follows the life of Emma Lou, a dark-skinned young woman from Boise, as she graduates high school and enters adult life as a college student. After being the target of colorist prejudice from her fellow African-American students at the University of Southern California, Emma Lou decides to drop out and move to Harlem—where she’s swept into a torrid love affair that only deepens her sense of color-consciousness.&lt;/p&gt;
 			&lt;p&gt;Written and set during the height of the Harlem Renaissance, &lt;i&gt;The Blacker the Berry&lt;/i&gt; was one of the first African-American novels to address the themes of colorism and homosexuality. It remains one of the canonical novels of the Harlem Renaissance.&lt;/p&gt;
